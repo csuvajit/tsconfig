@@ -1,0 +1,23 @@
+{
+	"name": "tsconfig",
+	"version": "1.0.1",
+	"license": "MIT",
+	"author": "Suvajit <suvajit.me@gmail.com>",
+	"description": "TypeScript Config",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/csuvajit/tsconfig.git"
+	},
+	"keywords": [],
+	"bugs": {
+		"url": "https://github.com/csuvajit/tsconfig/issues"
+	},
+	"homepage": "https://github.com/csuvajit/tsconfig#readme",
+	"devDependencies": {
+		"typescript": "^4.3.5"
+	}
+}
